@@ -1,0 +1,26 @@
+body {
+  background: #ccc;
+  margin: 0;
+  font-family: Helvetica;
+}
+
+.header{
+  background-color: #993399;
+  text-align: center;
+  color: white;
+  padding-top: 5px;
+}
+
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+  background: #fff;
+  border-top: 10px solid #424242;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+article {
+  padding: 20px 40px;
+  background: #fff;
+}
