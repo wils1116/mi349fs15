@@ -17,24 +17,8 @@ h2{
 
 h3{
   padding-left: 5px;
+  color: #993399;
 }
-
-.personas{
-  float:left;
-  padding-right: 100px;
-}
-
-.personas1{
-  float:center;
-  padding-right: 100px;
-}
-
-.personas2{
-  float: right;
-  alig
-}
-
-
 
 p {
   padding: 20px 40px;
@@ -47,8 +31,16 @@ p {
   box-shadow: 10px 10px 5px #888888;
 }
 
+a{
+  transition: all 2s ease-out;
+}
+
 a:visited{
-  font-color: #993399;
+  color: #ccc;
+}
+
+a:hover{
+  color: #993399;
 }
 
 .elevator{
