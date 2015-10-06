@@ -31,6 +31,7 @@ h3{
 
 .personas2{
   float: right;
+  alig
 }
 
 
@@ -52,4 +53,15 @@ a:visited{
 
 .elevator{
   font-weight: 200;
+}
+
+.projectmeta{
+  margin: 0px;
+  padding: 0;
+}
+
+.projectmeta li{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
 }
